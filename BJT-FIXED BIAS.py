@@ -24,10 +24,5 @@ print("The value of RB is:", RB)
 print("The value of VCE is:",VCE)
 
 
-x = int(input("Enter Vcc: "))
-y = float(input("Enter Vbe: "))
-z = int(input("Enter Rb: "))
-o = int(input("Enter ib: "))
-a = int(input("Enter beta value: "))
-b = int(input("Enter rc"))
+
 
